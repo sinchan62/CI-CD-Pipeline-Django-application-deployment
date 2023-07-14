@@ -1,0 +1,3 @@
+[submodule "django-notes-app"]
+	path = django-notes-app
+	url = https://github.com/sinchan62/django-notes-app.git
