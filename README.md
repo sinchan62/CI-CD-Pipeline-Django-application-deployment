@@ -18,5 +18,6 @@ This project includes end-to-end deployment of a notes application built on the 
 - Networking
 - Jenkins
  
+## Project Architecture
 
-
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1pwoEqOJbULFkdK572Cv0Kthunx5RQhgN)
