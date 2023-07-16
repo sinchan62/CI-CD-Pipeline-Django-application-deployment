@@ -18,8 +18,5 @@ This project includes end-to-end deployment of a notes application built on the 
 - Networking
 - Jenkins
  
-## Screenshots
-
-![App Screenshot](https://drive.google.com/drive/folders/1zptRP7vKNhJsJKiqIunyOC2ekTwpxxzv)
 
 
